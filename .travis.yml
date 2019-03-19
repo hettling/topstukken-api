@@ -1,3 +1,7 @@
+## Make sure credentials have been set for this repo:
+## travis env set DOCKER_USER
+## travis env set DOCKER_PASS
+
 language: generic
 
 services:
